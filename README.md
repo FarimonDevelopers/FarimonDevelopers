@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Monjurul Ajha</h1>
 <h2 align="center">A passionate android app developer and web application developer from Bangladesh.</h2>
 <p>Md Monjurul Ajha
-Expert in JavaScript, Java, Laravel | Android & Web Application Developer
+Expert in JavaScript, Java, PHP, Laravel | Android & Web Application Developer
 
 📍 Cumilla, Bangladesh
 
