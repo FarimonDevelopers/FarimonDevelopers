@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Monjurul Ajha</h1>
 <h2 align="center">A passionate android app developer and web application developer from Bangladesh.</h2>
-<h3>Md Monjurul Ajha
+<p>Md Monjurul Ajha
 Expert in JavaScript, Java, Laravel | Android & Web Application Developer
 
 📍 Cumilla, Bangladesh
@@ -14,7 +14,7 @@ My coding journey began three years ago, sparked by a simple curiosity — how a
 
 On a mission to solve real-world problems through code, I constantly sharpen my skills to stay ahead of ever-evolving tech trends. I believe in growth through collaboration and enjoy sharing knowledge by leading coding workshops and participating in tech meetups.
 
-Have an exciting project or challenge? 📩 Let’s connect and bring your ideas to life!</h3>
+Have an exciting project or challenge? 📩 Let’s connect and bring your ideas to life!</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monjurul1113&label=Profile%20views&color=0e75b6&style=flat" alt="monjurul1113" /> </p>
