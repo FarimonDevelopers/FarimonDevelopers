@@ -24,6 +24,7 @@ Got an exciting idea or challenge? 📩 **Let’s connect and turn your vision i
 ---
 
 ### Connect with me
+Email: mdmonjurulajha@gmail.com
 
 ---
 
