@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parimondevelopers&label=Profile%20views&color=0e75b6&style=flat" alt="farimondevelopers" /> </p>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=parimondevelopers&label=Profile%20views&color=0e75b6&style=flat" alt="farimondevelopers" /> </h3>
 <h1 align="left">👋 Hi, I'm <span style="color:#ff6600;">Md Monjurul Ajha</span></h1>
 
 <h2 align="left">A passionate Android app developer and web application developer from Bangladesh.</h2>
