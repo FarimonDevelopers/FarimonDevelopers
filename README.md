@@ -28,10 +28,6 @@ Got an exciting idea or challenge? 📩 **Let’s connect and turn your vision i
 
 ### Connect with me
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=for-the-badge)](https://twitter.com/your_twitter_username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin_profile)  
-[![GitHub followers](https://img.shields.io/github/followers/farimondevelopers?label=Follow&style=for-the-badge)](https://github.com/farimondevelopers)
-
 ---
 
 ### Languages and Tools
