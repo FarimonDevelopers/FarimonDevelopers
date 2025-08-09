@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monjurul1113&label=Profile%20views&color=0e75b6&style=flat" alt="monjurul1113" /> </p>
 <h1 align="center">Hi 👋, I'm Md Monjurul Ajha</h1>
 <h2 align="center">A passionate android app developer and web application developer from Bangladesh.</h2>
 <p>Md Monjurul Ajha
@@ -17,7 +18,7 @@ On a mission to solve real-world problems through code, I constantly sharpen my 
 Have an exciting project or challenge? 📩 Let’s connect and bring your ideas to life!</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monjurul1113&label=Profile%20views&color=0e75b6&style=flat" alt="monjurul1113" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farimondevelopers" alt="farimondevelopers" /></a> </p>
 
