@@ -3,6 +3,26 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Md Monjurul Ajha</h1>
+<style>
+span {
+  display: inline-block;
+  animation: fadeIn 2s ease-in-out infinite alternate;
+  color: #ff6600;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+</style>
 <h2 align="left">A passionate Android app developer and web application developer from Bangladesh.</h2>
 
 <p align="left">
