@@ -6,7 +6,7 @@ Expert in JavaScript, Java, PHP, Laravel | Android & Web Application Developer
 
 📍 Cumilla, Bangladesh
 
-About Me
+About Me </br>
 Ever wondered what happens when technology meets creativity? I’m passionate about blending art and code to craft unique digital experiences that truly connect and engage users.
 
 As a seasoned developer specializing in JavaScript, Java, Laravel, and building Android & web applications, I strive to deliver solutions that are not just functional but also impactful.
