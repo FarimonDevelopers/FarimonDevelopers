@@ -1,5 +1,6 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=parimondevelopers&label=Profile%20views&color=0e75b6&style=flat" alt="farimondevelopers" /> </h3>
 <h1 align="left">👋 Hi, I'm <span style="color:#ff6600;">Md Monjurul Ajha</span></h1>
+<h1 align="left">👋 Hi, I'm <span style="color:#ff6600;display:inline-block;white-space:nowrap;overflow:hidden;width:0;animation:typing 2.6s steps(18,end) forwards;border-right:2px solid #ff6600">Md Monjurul Ajha</span></h1><style>@keyframes typing{to{width:13ch}}</style>
 
 <h2 align="left">A passionate Android app developer and web application developer from Bangladesh.</h2>
 
